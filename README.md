@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/androidstudio%20-%669933.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/visualstudiocode%20-%231572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">Kotlin, Java, Python, HTML5, CSS, SASS, Git, Github, Bitbucket.</p>
+<p align="center">Kotlin, Java, Javascript, HTML5, CSS, SASS, Git, Github, Bitbucket.</p>
 
 <hr>
 

@@ -21,7 +21,6 @@
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/androidstudio%20-%2343853D.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/atom%20-%2300D9FF.svg?&style=for-the-badge&logo=atom&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/visualstudiocode%20-%231572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">Kotlin, Java, Python, HTML5, CSS, SASS, Git, Github, Bitbucket.</p>

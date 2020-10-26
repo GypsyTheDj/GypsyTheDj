@@ -4,8 +4,11 @@
 
 <h1 align="center"> Hi there 👋, I'm Norman Nuthu 😊 </h1>
 <div align="center">
-  <img src="https://normannuthu.netlify.app/assets/images/norman.jpg"/>
+  
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_792wc9R--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/305756/7a655ec8-9bff-48f1-b587-c494fb8e93fc.jpg"/>
+  
 </div>
+
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>

@@ -19,7 +19,7 @@
 <hr>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&theme=dark&show_icons=true)
 
 
 <h2 align="center"> 🔭 Tools of Trade</h2>

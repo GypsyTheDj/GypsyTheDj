@@ -18,11 +18,12 @@
 
 <hr>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&theme=chartreuse-dark&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GypsyTheDj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GypsyTheDj&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GypsyTheDj&repo=convoychat" />
+</a>
 
 
 <h2 align="center"> 🔭 Tools of Trade</h2>

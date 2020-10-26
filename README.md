@@ -18,6 +18,10 @@
 
 <hr>
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/androidstudio%20-%669933.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;&nbsp;

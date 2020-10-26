@@ -2,7 +2,7 @@
 **GypsyTheDj/Norman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> Hi there, I'm Norman Nuthu - aka [Pappi 😆][website] 👋 </h1>
+<h1 align="center"> Hi there, I'm Norman Nuthu 👋 </h1>
 <div align="center">
   <img src="#"/>
 </div>
@@ -32,6 +32,7 @@
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/normannuthu"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://medium.com/@normannuthu"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://hashnode.com/@Pappi"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -47,10 +48,3 @@
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-
-[website]: https://normannuthu.netlify.app
-[website1]: https://todocode.dev 
-[twitter]: https://twitter.com/ThisIsPappi254
-[youtube]: http://www.youtube.com/c/GypsyTheDj
-[instagram]: https://www.instagram.com/gypsythedjofficial
-[linkedin]: https://www.linkedin.com/in/normannuthu

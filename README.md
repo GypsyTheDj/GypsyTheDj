@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there 👋, I'm Norman Nuthu 😊 </h1>
 <div align="center">
   
-  <img src="https://drive.google.com/file/d/1iv81vaf7xakcrNSni3TYcNGFfxNP-s1z/view?usp=sharing">
+  <img src="https://normannuthu.netlify.app/assets/images/norman.jpg">
   
 </div>
 

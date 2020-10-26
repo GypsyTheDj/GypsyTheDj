@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Norman Nuthu 😊 </h1>
 <div align="center">
-  <img src="#"/>
+  <img src="https://normannuthu.netlify.app/assets/images/norman.jpg"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 

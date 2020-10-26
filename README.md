@@ -41,7 +41,7 @@
   <a target="_blank"href="https://www.linkedin.com/in/normannuthu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ThisIsPappi254"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:norman.strathmore@gmail.com?subject=Hello%20Norman,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://wa.me/+254724920601"><img src="https://img.shields.io/badge/whatsapp-%231DA1F2.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://wa.me/+254724920601?text=Hey%20Norman,%20I%20%20Got%20your%20number%20from%20GitHub"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>

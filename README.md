@@ -2,7 +2,7 @@
 **GypsyTheDj/Norman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> Hi there, I'm Norman Nuthu - aka [Pappi 😆][website] 👋 </h1>
 <div align="center">
   <img src="#"/>
 </div>
@@ -46,3 +46,11 @@
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
+[website]: https://normannuthu.netlify.app
+[website1]: https://todocode.dev 
+[twitter]: https://twitter.com/ThisIsPappi254
+[youtube]: http://www.youtube.com/c/GypsyTheDj
+[instagram]: https://www.instagram.com/gypsythedjofficial
+[linkedin]: https://www.linkedin.com/in/normannuthu

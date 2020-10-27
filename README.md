@@ -29,7 +29,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GypsyTheDj&langs_count=8)](https://github.com/GypsyTheDj)
 
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GypsyTheDj&repo=github-readme-stats" />
 </a>
 
 

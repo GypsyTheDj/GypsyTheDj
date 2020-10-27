@@ -20,7 +20,7 @@
 </p>
 
 <hr>
-<p align='right'>
+<p align="center" align='right'>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&show_icons=true&theme=chartreuse-dark)
 

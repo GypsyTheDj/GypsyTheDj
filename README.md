@@ -2,7 +2,7 @@
 **GypsyTheDj/GypsyTheDj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> Hi there 👋, I'm Norman Nuthu 😊 </h1>
+<h1 align="center"> Hi there 👋, </h1>
 <div align="center">
   
   <img src="https://normannuthu.netlify.app/assets/images/portfolio.png">

@@ -20,12 +20,14 @@
 </p>
 
 <hr>
-<p align="center" align='right'>
+
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&show_icons=true&theme=chartreuse-dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GypsyTheDj&repo=github-readme-stats" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GypsyTheDj&langs_count=8)](https://github.com/GypsyTheDj)
-</p>
+
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">

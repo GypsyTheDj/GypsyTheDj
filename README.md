@@ -23,7 +23,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GypsyTheDj&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GypsyTheDj&langs_count=8)](https://github.com/GypsyTheDj)
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">

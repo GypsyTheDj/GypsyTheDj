@@ -22,7 +22,7 @@
 <hr>
 
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/GypsyTheDj">
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GypsyTheDj&show_icons=true&theme=chartreuse-dark)
   

@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there <img src="https://i.postimg.cc/7L0HtG8H/hello.gif” width="35" height="35" > </h1>
 <div align="center">
   
-  <img src="https://normannuthu.netlify.app/assets/images/portfolio.png">
+  <img src="https://github.com/GypsyTheDj/My-PortFolio/blob/master/assets/images/pappi.jpeg?raw=true">
   
 </div>
 

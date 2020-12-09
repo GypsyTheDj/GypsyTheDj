@@ -17,6 +17,7 @@
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=GypsyTheDj" alt="https://github.com/GypsyTheDj" />
+  ![Twitter Follow](https://img.shields.io/twitter/follow/thisispappi254?style=social)
 </p>
 
 <hr>

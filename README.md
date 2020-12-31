@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there <img src="https://i.postimg.cc/7L0HtG8H/hello.gif” width="35" height="35" > </h1>
 <div align="center">
   
-  <img src="https://github.com/GypsyTheDj/My-PortFolio/blob/master/assets/images/Dev%20Android.gif" width="300" height="300">
+  <img src="https://github.com/GypsyTheDj/My-PortFolio/blob/master/assets/images/Dev%20Android.gif" width="300" height="100">
   
 </div>
 
